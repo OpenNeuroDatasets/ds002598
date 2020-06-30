@@ -17,5 +17,6 @@
     "DatasetDOI": "10.18112/openneuro.ds002598.v1.0.1",
     "ReferencesAndLinks": [
         "https://doi.org/10.1016/j.neuroimage.2020.117058"
-    ]
+    ],
+    "HowToAcknowledge": "Please cite: \n\nWeiyong, X., Orsolya, B. K., Robert, O., & Jarmo, A. H. Rapid Changes in Brain Activity During Learning of Grapheme-Phoneme Associations in Adults. NeuroImage, 117058.\n\nAudiovisual Learning MEG Dataset. https://openneuro.org/datasets/ds002598/\n\n"
 }
