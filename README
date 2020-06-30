@@ -1,6 +1,8 @@
 =========
 Dataset description: Magnetoencephalography (MEG) dataset on grapheme-phoneme learning in 2 consecutive days
 
+This MEG dataset was prepared in the Brain Imaging Data Structure (MEG-BIDS, Niso et al. 2018) format using MNE-BIDS (Appelhoff et al. 2019).
+
 In total 36 people were scheduled to participate in the study. The data from 6 participants are not included in this dataset; 2 were excluded due to a low learning accuracy during the whole training sessions on Day 1, and for the other 4 participants MEG data were not measured because of cancellation.
 
 
