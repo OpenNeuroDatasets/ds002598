@@ -1,0 +1,21 @@
+{
+    "Name": "Audiovisual Learning MEG Dataset",
+    "BIDSVersion": "1.2.0",
+    "Authors": [
+        "Weiyong Xu",
+        "Orsolya Beatrix Kolozsvari",
+        "Robert Oostenveld ",
+        "Jarmo Arvid H\u00e4m\u00e4l\u00e4inen\t"
+    ],
+    "Acknowledgements": "We would like to thank Aino Sorsa and Ainomaija Laitinen for their help in data collection. This work has been supported by the European Union projects ChildBrain (Marie Curie Innovative Training Networks, no. 641652), Predictable (Marie Curie Innovative Training Networks, no. 641858) and the Academy of Finland (MultiLeTe  #292466). The authors declare no conflicts of interest.",
+    "Funding": [
+        "ChildBrain (Marie Curie Innovative Training Networks, no. 641652)",
+        "Predictable (Marie Curie Innovative Training Networks, no. 641858)",
+        "Academy of Finland (MultiLeTe  #292466)"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "10.18112/openneuro.ds002598.v1.0.1",
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1016/j.neuroimage.2020.117058"
+    ]
+}
